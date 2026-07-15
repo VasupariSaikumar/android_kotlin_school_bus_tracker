@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EmployerReportsViewer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android_kotlin_attendance_employer_admin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android_kotlin_attendance_tracker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android_kotlin_browser" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android_kotlin_browser/android_kotlin_browser" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android_kotlin_button_mapping" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android_kotlin_clipboard_history" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android_kotlin_location_info" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android_kotlin_notifications_history" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android_kotlin_notifications_history/android_kotlin_notifications_history" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kotlin_images_explorer" vcs="Git" />
+  </component>
+</project>
